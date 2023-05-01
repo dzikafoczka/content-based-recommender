@@ -172,7 +172,7 @@ The CatBoost model achieved the best score of 0.217583, beating amazon's recomme
 Project is written in python. 
 
 Requires:
-1. python version 3.8 or higher.
+1. Python version 3.8 or higher.
 2. [Anaconda](https://www.anaconda.com/products/individual).
 3. [Git](https://git-scm.com/downloads)
 
@@ -186,6 +186,6 @@ To run the project:
           <pre>conda env create --name <i>name_of_environment</i> -f environment.yml </pre>
 4. Activate your environment.
           <pre>conda activate <i>name_of_environment</i></pre>
-5. Launch jupyter notebook.
+5. Launch Jupyter Notebook.
           <pre>jupyter notebook</pre>
 6. Enjoy!
